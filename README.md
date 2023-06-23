@@ -42,7 +42,7 @@ run the project using jupyter notebook
 
 3. Draw the Sinhala character in the provided drawing area using the mouse.
 
-4. Click the "Recognize" button to classify the drawn character.
+4. Click the buttons to classify the drawn character.
 
 5. The predicted character label will be displayed on the GUI.
 
