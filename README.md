@@ -22,13 +22,13 @@ This project aims to recognize limited Sinhala characters using machine learning
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/sinhala-ml-character-recognition.git
+   git clone https://github.com/Chethana-it/Sinhala-Character-Recognition.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sinhala-ml-character-recognition
+   cd Sinhala-Character-Recognition
    ```
 
 3. Install the required libraries:
